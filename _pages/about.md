@@ -17,17 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a third-year Ph.D. candidate of Atmospheric Science at Department of Earth System Science, Tsinghua University. I am in AI4Earth Laboratory and my advisor is Prof. [Xiaomeng Huang](http://faculty.dess.tsinghua.edu.cn/huangxiaomeng/en/index.htm). If you are interested in academic communication and cooperation with me, I am so willing to receive your emails at xiongw21@mails.tsinghua.edu.cn.
+I am currently a third-year Ph.D. candidate in Atmospheric Science at the Department of Earth System Science, Tsinghua University. I am in AI4Earth Laboratory and my advisor is Prof. [Xiaomeng Huang](http://faculty.dess.tsinghua.edu.cn/huangxiaomeng/en/index.htm). If you are interested in academic communication and cooperation with me, I am so willing to receive your emails at xiongw21@mails.tsinghua.edu.cn.
 
 <!-- You can find my CV here: [Curriculum Vitae](./files/cv.pdf).-->
 
-My research aim to solve partial differential equations to achieve modeling of the geophysical fluid dynamics by deep learning methods. I am mainly focused on the following research topics:
-* **Opeartor Learning Theory**: Focusing on exploring how to combine universal approximation theorems with the physical theory of operators to design better operator learning methods and provide more numerical analyses.
-* **Numerical Algorhtim**: Enhancing numerical algorithms for solving partial differential equations by combining deep learning methods.
+My research aims to solve partial differential equations to achieve modeling of the geophysical fluid dynamics by deep learning methods. I am mainly focused on the following research topics:
+* **Operator Learning Theory**: Focusing on exploring how to combine universal approximation theorems with the physical theory of operators to design better operator learning methods and provide more numerical analyses.
+* **Numerical Algorithm**: Enhancing numerical algorithms for solving partial differential equations by combining deep learning methods.
 * **Geometry Deep Learning**: Focusing on exploring how to use geometric features of neural networks, combined with abstract algebra and differential geometry, to model physical variables with more physical inductive bias.
 * **Geophysical Fluid Dynamics**: Focusing on real-world geophysical fluid modeling issues, including fluid simulation, weather forecasting, climate prediction and other related areas.
 
-I also share some contents about operator learning theory, numerical algorithm and high performance computing in [Zhihu](https://www.zhihu.com/people/Venney).
+I also share some content about operator learning theory, numerical algorithms and high performance computing in [Zhihu](https://www.zhihu.com/people/Venney).
 
 # 🔥 News
 - *01/2024* &nbsp;🎉 1 paper was accepted to AI for Time Series (AI4TS) Workshop @ **AAAI 2024**.
@@ -36,7 +36,7 @@ I also share some contents about operator learning theory, numerical algorithm a
 - *09/2023* &nbsp;🎉 1 [paper](https://www.researchgate.net/publication/373888508_KoopmanLab_Machine_learning_for_solving_complex_physics_equations) was accepted to APL Machine Learning.
 - *01/2023* &nbsp;🔥 We release [KoopmanLab](https://github.com/Koopman-Laboratory/KoopmanLab)(⭐️160+) scientific computing library.
 - *11/2023* &nbsp;👏 Obtain Taihulight Scholarship from National Supercomputing Center in Wuxi.
-- *04/2023* &nbsp;👏 Obtain Outstanding presentation award in Artificial Intelligence Oceanography Forum.
+- *04/2023* &nbsp;👏 Obtain Outstanding Presentation award in Artificial Intelligence Oceanography Forum.
 - *12/2022* &nbsp;🎉 1 was accepted to Science Bulletin (IF = 18.9).
 - *08/2022* &nbsp;💼 Join 2012 Laboratory of Huawei as a Research Intern.
 - *11/2021* &nbsp;🎉 1 [paper](https://www.sciencedirect.com/science/article/pii/S146350032100130X) was accepted to Ocean Modelling.
@@ -77,7 +77,7 @@ I also share some contents about operator learning theory, numerical algorithm a
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ArXiv``</span> [Koopman neural operator as a mesh-free solver of non-linear partial differential equations](https://arxiv.org/abs/2301.10022). **Wei Xiong**, Xiaomeng Huang, Ziyang Zhang, Ruixuan Deng, Pei Sun, Yang Tian ArXiv preprint arXiv:2301.10022 (Journal of Computational Physics under review), 2023.
 
 
-#### &nbsp;&nbsp; Geophyiscal System Modeling
+#### &nbsp;&nbsp; Geophysical System Modeling
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ArXiv``</span> [AI-GOMS: Large AI-Driven Global Ocean Modeling System](https://arxiv.org/abs/2308.03152). **Wei Xiong** *, Yanfei Xiang *, Hao Wu, Shuyi Zhou, Yuze Sun, Muyuan Ma, Xiaomeng Huang. arXiv preprint arXiv:2308.03152, 2023.
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``Science Bulletin``</span> [Super-resolution reconstruction of a 3 arc-second global DEM dataset](https://pubmed.ncbi.nlm.nih.gov/36604030/). Bo Zhang, **Wei Xiong**, Muyuan Ma, Mingqing Wang, Dong Wang, Xing Huang, Le Yu, Qiang Zhang, Hui Lu, Danfeng Hong, Fan Yu, Zidong Wang, Jie Wang, Xuelong Li, Peng Gong, Xiaomeng Huang. Science Bulletin, 2022.
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``Ocean Modelling``</span> [MERF v3. 0, a highly computationally efficient non-hydrostatic ocean model with implicit parallelism: Algorithms and validation experiments](https://www.sciencedirect.com/science/article/pii/S146350032100130X). Qiang Tang, Xiaomeng Huang, Lei Lin, **Wei Xiong**, Dong Wang, Mingqing Wang, Xing Huang. Ocean Modelling, 2021.
