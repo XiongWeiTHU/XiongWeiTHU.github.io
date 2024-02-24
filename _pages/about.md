@@ -106,7 +106,7 @@ Reviewer:
 - 2024 SIGKDD
 
 
-# 🌚 Miscellaneous
+# 😊 Miscellaneous
 - ⛳️ I am a golf amateur.
 - 🏀 I am very interested in basketball.
 <br>
