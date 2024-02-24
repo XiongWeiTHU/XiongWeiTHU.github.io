@@ -32,8 +32,8 @@ I also share some contents about operator learning theory, numerical algorithm a
 # 🔥 News
 - *01/2024* &nbsp;🎉 1 paper was accepted to AI for Time Series (AI4TS) Workshop @ **AAAI 2024**.
 - *12/2023* &nbsp;🎉 Oral presentation in AGU 2023 Fall Meeting.
-- *12/2023* &nbsp;🎉 1 paper was accepted to AAAI2024.
-- *09/2023* &nbsp;🎉 1 paper was accepted to APL Machine Learning.
+- *12/2023* &nbsp;🎉 1 [paper](https://arxiv.org/abs/2312.08403) was accepted to AAAI2024.
+- *09/2023* &nbsp;🎉 1 [paper](https://www.researchgate.net/publication/373888508_KoopmanLab_Machine_learning_for_solving_complex_physics_equations) was accepted to APL Machine Learning.
 - *01/2023* &nbsp;🔥 We release [KoopmanLab](https://github.com/Koopman-Laboratory/KoopmanLab)(⭐️160+) scientific computing library.
 - *11/2023* &nbsp;👏 Obtain Taihulight Scholarship from National Supercomputing Center in Wuxi.
 - *04/2023* &nbsp;👏 Obtain Outstanding presentation award in Artificial Intelligence Oceanography Forum.
