@@ -91,7 +91,7 @@ I also share some contents about operator learning theory, numerical algorithm a
 - *2023.04* Outstanding Presentation Award, Artificial Intelligence Oceanography Forum.
 - *2021.06* Province-level Outstanding Graduate Student Award, Shandong Provincial Education Department.
 - *2020.11* National Scholarship, Ministry of Education of the People's Republic of China.
-- *2019.04* 2nd Place Award (<b>ASC Student Supercomputer Challenge</b>), Asian Supercomputing Association.
+- *2019.04* 2nd Place Award at ASC Student Supercomputer Challenge, Asian Supercomputing Association.
 - *2019.11* National Scholarship, Ministry of Education of the People's Republic of China.
 - *2019.04* 2st Place Award at the 10th National Mathematics Competition, Chinese Mathematical Society.
 - *2019.04* 1st Place Award at the 9th Shandong Province Mathematics Competition, Shandong Mathematical Society.
