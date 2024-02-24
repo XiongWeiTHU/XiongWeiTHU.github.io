@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a third-year Ph.D. candidate of Atmospheric Sciences at Department of Earth System Science, Tsinghua University. I am in AI4Earth Laboratory and my advisor is Prof. [Xiaomeng Huang](http://faculty.dess.tsinghua.edu.cn/huangxiaomeng/en/index.htm). If you are interested in academic communication and cooperation with me, I am so willing to receive your emails at xiongw21@mails.tsinghua.edu.cn.
+I am currently a third-year Ph.D. candidate of Atmospheric Science at Department of Earth System Science, Tsinghua University. I am in AI4Earth Laboratory and my advisor is Prof. [Xiaomeng Huang](http://faculty.dess.tsinghua.edu.cn/huangxiaomeng/en/index.htm). If you are interested in academic communication and cooperation with me, I am so willing to receive your emails at xiongw21@mails.tsinghua.edu.cn.
 
 <!-- You can find my CV here: [Curriculum Vitae](./files/cv.pdf).-->
 
@@ -35,8 +35,8 @@ I also share some contents about operator learning theory, numerical algorithm a
 - *12/2023* &nbsp;🎉 1 paper was accepted to AAAI2024.
 - *09/2023* &nbsp;🎉 1 paper was accepted to APL Machine Learning.
 - *01/2023* &nbsp;🔥 We release [KoopmanLab](https://github.com/Koopman-Laboratory/KoopmanLab)(⭐️160+) scientific computing library.
-- *11/2023* &nbsp;👏 Obtain <span style="color:red">Taihulight Scholarship</span> from National Supercomputing Center in Wuxi.
-- *04/2023* &nbsp;👏 Obtain <span style="color:red">Outstanding presentation award</span> in Artificial Intelligence Oceanography Forum.
+- *11/2023* &nbsp;👏 Obtain Taihulight Scholarship from National Supercomputing Center in Wuxi.
+- *04/2023* &nbsp;👏 Obtain Outstanding presentation award in Artificial Intelligence Oceanography Forum.
 - *12/2022* &nbsp;🎉 1 was accepted to Science Bulletin (IF = 18.9).
 - *08/2022* &nbsp;💼 Join 2012 Laboratory of Huawei as a Research Intern.
 - *11/2021* &nbsp;🎉 1 [paper](https://www.sciencedirect.com/science/article/pii/S146350032100130X) was accepted to Ocean Modelling.
@@ -44,8 +44,8 @@ I also share some contents about operator learning theory, numerical algorithm a
 
 # 💻 Research Experience
 <div style="display: flex; align-items: center;">
-  <img src="../images/experience/huawei.png" alt="" style="width: 90px; margin-right: 50px; margin-left: 20px;"/>
-  <ul style="list-style-type: disc; padding-left: 20px;">
+  <img src="../images/experience/huawei.png" alt="" style="width: 150px; margin-right: 10px; margin-left: 20px; "/>
+  <ul style="list-style-type: disc; padding-left: 0px;">
     <li style="list-style-type: none;"> 2012 Laboratory, Huawei Technologies Co., Ltd.</li>
     <li style="list-style-type: none;"><em>2022.08 - present</em>, <strong>Research intern</strong></li>
   </ul>
@@ -61,8 +61,8 @@ I also share some contents about operator learning theory, numerical algorithm a
 </div>
 
 <div style="display: flex; align-items: center;">
-  <img src="../images/experience/MEL.png" alt="" style="width: 90px; margin-right: 50px; margin-left: 20px; "/>
-  <ul style="list-style-type: disc; padding-left: 20px;">
+  <img src="../images/experience/MEL.png" alt="" style="width: 150px; margin-right: 10px; margin-left: 20px; "/>
+  <ul style="list-style-type: disc; padding-left: 0px;">
     <li style="list-style-type: none;">Carbon Biogeochemistry Group, the State Key Laboratory of Marine Environmental Science, Xiamen University</li>
     <li style="list-style-type: none;"><em>2019.06 - 2019.08</em>, <strong>Summer intern</strong></li>
     <li style="list-style-type: none;">mentored by <a href="https://dgo.xmu.edu.cn/info/1026/1100.htm">Prof. Guizhi Wang</a> </li>
