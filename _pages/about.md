@@ -54,7 +54,7 @@ I also share some content about operator learning theory, numerical algorithms a
 <div style="display: flex; align-items: center;">
   <img src="../images/experience/wuxi.png" alt="" style="width: 150px; margin-right: 10px; margin-left: 20px; "/>
   <ul style="list-style-type: disc; padding-left: 0px;">
-    <li style="list-style-type: none;">National Supercomputing Center in Wuxi (<a href="https://www.nsccwx.cn/">CCVL</a>)</li>
+    <li style="list-style-type: none;">National Supercomputing Center in Wuxi (<a href="https://www.nsccwx.cn/">NSC</a>)</li>
     <li style="list-style-type: none;"><em>2020.06 - 2020.08</em>, <strong>Summer intern</strong></li>
     <li style="list-style-type: none;">mentored by <a href="http://faculty.dess.tsinghua.edu.cn/huangxiaomeng/en/index.htm">Prof. Xiaomeng Huang</a></li>
   </ul>
