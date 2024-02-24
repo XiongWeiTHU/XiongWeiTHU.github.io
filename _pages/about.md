@@ -73,7 +73,7 @@ I also share some content about operator learning theory, numerical algorithms a
 # 📃 Publications 
 
 #### &nbsp;&nbsp; Operator Learning Theory
-- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``APL Machine Learning``</span> [KoopmanLab: Machine learning for solving complex physics equations](https://www.researchgate.net/publication/366846352_KoopmanLab_machine_learning_for_solving_complex_physics_equations). Wei Xiong, Muyuan Ma, Xiaomeng Huang, Ziyang Zhang, Pei Sun, Yang Tian. APL Machine Learning, 2023. </span>
+- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``APL Machine Learning``</span> [KoopmanLab: Machine learning for solving complex physics equations](https://www.researchgate.net/publication/366846352_KoopmanLab_machine_learning_for_solving_complex_physics_equations). **Wei Xiong**, Muyuan Ma, Xiaomeng Huang, Ziyang Zhang, Pei Sun, Yang Tian. APL Machine Learning, 2023. </span>
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ArXiv``</span> [Koopman neural operator as a mesh-free solver of non-linear partial differential equations](https://arxiv.org/abs/2301.10022). **Wei Xiong**, Xiaomeng Huang, Ziyang Zhang, Ruixuan Deng, Pei Sun, Yang Tian ArXiv preprint arXiv:2301.10022 (Journal of Computational Physics under review), 2023.
 
 
