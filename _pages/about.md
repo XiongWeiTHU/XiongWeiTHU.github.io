@@ -38,19 +38,10 @@ I also share some content about operator learning theory, numerical algorithms a
 - *11/2023* &nbsp;👏 Obtain Taihulight Scholarship from National Supercomputing Center in Wuxi.
 - *04/2023* &nbsp;👏 Obtain Outstanding Presentation award in Artificial Intelligence Oceanography Forum.
 - *12/2022* &nbsp;🎉 1 was accepted to Science Bulletin (IF = 18.9).
-- *08/2022* &nbsp;💼 Join 2012 Laboratory of Huawei as a Research Intern.
 - *11/2021* &nbsp;🎉 1 [paper](https://www.sciencedirect.com/science/article/pii/S146350032100130X) was accepted to Ocean Modelling.
 
 
 # 💻 Research Experience
-<div style="display: flex; align-items: center;">
-  <img src="../images/experience/huawei.png" alt="" style="width: 150px; margin-right: 10px; margin-left: 20px; "/>
-  <ul style="list-style-type: disc; padding-left: 0px;">
-    <li style="list-style-type: none;"> 2012 Laboratory, Huawei Technologies Co., Ltd.</li>
-    <li style="list-style-type: none;"><em>2022.08 - present</em>, <strong>Research intern</strong></li>
-  </ul>
-</div>
-
 <div style="display: flex; align-items: center;">
   <img src="../images/experience/wuxi.png" alt="" style="width: 150px; margin-right: 10px; margin-left: 20px; "/>
   <ul style="list-style-type: disc; padding-left: 0px;">
