@@ -30,11 +30,10 @@ My research aims to solve partial differential equations to achieve modeling of 
 I also share some content about operator learning theory, numerical algorithms and high performance computing in [Zhihu](https://www.zhihu.com/people/Venney).
 
 # 🔥 News
-- *05/2024* &nbsp;🎉 1 paper was accepted to the International Conference on Knowledge Discovery and Data Mining 2024 (**KDD 2024**).
-- *01/2024* &nbsp;🎉 1 paper was accepted to the Association for the Advancement of Artificial Intelligence 2024 (**AAAI 2024**).
+- *05/2024* &nbsp;🎉 1 paper was accepted to **KDD 2024**.
 - *01/2024* &nbsp;🎉 1 paper was accepted to AI for Time Series (AI4TS) Workshop @ **AAAI 2024**.
 - *12/2023* &nbsp;🎉 Oral presentation in AGU 2023 Fall Meeting @ **San Francisco, CA**.
-- *12/2023* &nbsp;🎉 1 [paper](https://arxiv.org/abs/2312.08403) was accepted to AAAI2024.
+- *12/2023* &nbsp;🎉 1 [paper](https://arxiv.org/abs/2312.08403) was accepted to **AAAI2024**.
 - *09/2023* &nbsp;🎉 1 [paper](https://www.researchgate.net/publication/373888508_KoopmanLab_Machine_learning_for_solving_complex_physics_equations) was accepted to APL Machine Learning.
 - *01/2023* &nbsp;🔥 We release [KoopmanLab](https://github.com/Koopman-Laboratory/KoopmanLab)(⭐️160+) scientific computing library.
 - *11/2023* &nbsp;👏 Obtain Taihulight Scholarship from National Supercomputing Center in Wuxi.
