@@ -96,7 +96,7 @@ I also share some content about operator learning theory, numerical algorithms a
 
 # ⚓ Academic Services
 Reviewer:
-- 2024 SIGKDD
+- 2024 ACMKDD
 
 
 # 😊 Miscellaneous
