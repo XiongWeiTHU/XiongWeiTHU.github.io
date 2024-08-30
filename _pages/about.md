@@ -45,6 +45,15 @@ I also share some content about operator learning theory, numerical algorithms a
 
 # 💻 Research Experience
 <div style="display: flex; align-items: center;">
+  <img src="../images/experience/Yale.png" alt="" style="width: 150px; margin-right: 10px; margin-left: 20px; "/>
+  <ul style="list-style-type: disc; padding-left: 0px;">
+    <li style="list-style-type: none;"> Department of Statistics and Data Science, Yale University </li>
+    <li style="list-style-type: none;"><em>2024.08 - 2025.02</em>, <strong>Visiting Research in Assistant</strong></li>
+    <li style="list-style-type: none;">mentored by <a href="https://lugroup.yale.edu/">Prof. Lu Lu</a></li>
+  </ul>
+</div>
+
+<div style="display: flex; align-items: center;">
   <img src="../images/experience/wuxi.png" alt="" style="width: 150px; margin-right: 10px; margin-left: 20px; "/>
   <ul style="list-style-type: disc; padding-left: 0px;">
     <li style="list-style-type: none;">National Supercomputing Center in Wuxi (<a href="https://www.nsccwx.cn/">NSC</a>)</li>
