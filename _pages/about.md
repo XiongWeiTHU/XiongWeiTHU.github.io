@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a third-year Ph.D. candidate in Atmospheric Science at the Department of Earth System Science, Tsinghua University. I am in AI4Earth Laboratory and my advisor is Prof. [Xiaomeng Huang](http://faculty.dess.tsinghua.edu.cn/huangxiaomeng/en/index.htm). If you are interested in academic communication and cooperation with me, I am so willing to receive your emails at [xiongw21@mails.tsinghua.edu.cn](mailto:xiongw21@mails.tsinghua.edu.cn).
+I am currently a third-year Ph.D. candidate in Atmospheric Science at the Department of Earth System Science, Tsinghua University. I am in AI4Earth Laboratory and my advisor is Prof. [Xiaomeng Huang](http://faculty.dess.tsinghua.edu.cn/huangxiaomeng/en/index.htm). If you are interested in academic communication and cooperation with me, I am so willing to receive your emails at [xiongw21@mails.tsinghua.edu.cn](mailto:xiongw21@mails.tsinghua.edu.cn) or [wei.xiong@yale.edu](mailto:wei.xiong@yale.edu).
 
 <!-- You can find my CV here: [Curriculum Vitae](./files/cv.pdf).-->
 
