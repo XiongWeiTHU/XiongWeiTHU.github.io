@@ -30,15 +30,16 @@ My research aims to solve partial differential equations to achieve modeling of 
 I also share some content about operator learning theory, numerical algorithms and high performance computing in [Zhihu](https://www.zhihu.com/people/Venney).
 
 # 🔥 News
-- *05/2024* &nbsp;🎉 1 paper was accepted to **KDD 2024**.
+- *07/2024* &nbsp;🎉 1 [paper](https://www.researchgate.net/publication/381423520_Koopman_neural_operator_as_a_mesh-free_solver_of_non-linear_partial_differential_equations) was accepted to **Journal of Computational Physics**.
+- *05/2024* &nbsp;🎉 1 [paper](https://doi.org/10.1145/3637528.3671779) was accepted to **KDD 2024**.
 - *01/2024* &nbsp;🎉 1 paper was accepted to AI for Time Series (AI4TS) Workshop @ **AAAI 2024**.
 - *12/2023* &nbsp;🎉 Oral presentation in AGU 2023 Fall Meeting @ **San Francisco, CA**.
 - *12/2023* &nbsp;🎉 1 [paper](https://arxiv.org/abs/2312.08403) was accepted to **AAAI2024**.
 - *09/2023* &nbsp;🎉 1 [paper](https://www.researchgate.net/publication/373888508_KoopmanLab_Machine_learning_for_solving_complex_physics_equations) was accepted to APL Machine Learning.
-- *01/2023* &nbsp;🔥 We release [KoopmanLab](https://github.com/Koopman-Laboratory/KoopmanLab)(⭐️160+) scientific computing library.
+- *01/2023* &nbsp;🔥 We release [KoopmanLab](https://github.com/Koopman-Laboratory/KoopmanLab)(⭐️210+) scientific computing library.
 - *11/2023* &nbsp;👏 Obtain Taihulight Scholarship from National Supercomputing Center in Wuxi.
 - *04/2023* &nbsp;👏 Obtain Outstanding Presentation award in Artificial Intelligence Oceanography Forum.
-- *12/2022* &nbsp;🎉 1 was accepted to Science Bulletin (IF = 18.9).
+- *12/2022* &nbsp;🎉 1 paper was accepted to Science Bulletin (IF = 18.9).
 - *11/2021* &nbsp;🎉 1 [paper](https://www.sciencedirect.com/science/article/pii/S146350032100130X) was accepted to Ocean Modelling.
 
 
@@ -65,8 +66,10 @@ I also share some content about operator learning theory, numerical algorithms a
 # 📃 Publications 
 
 #### &nbsp;&nbsp; Operator Learning Theory
+- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``KDD 2024``</span> [Neural Manifold Operators for Learning the Evolution of Physical Dynamics](https://doi.org/10.1145/3637528.3671779). Hao Wu, Kangyu Weng, Shuyi Zhou, Xiaomeng Huang #, **Wei Xiong** #. Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining
+, 2024.
+- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``Journal of Computational Physics``</span> [Koopman neural operator as a mesh-free solver of non-linear partial differential equations](https://doi.org/10.1016/j.jcp.2024.113194). **Wei Xiong**, Xiaomeng Huang, Ziyang Zhang, Ruixuan Deng, Pei Sun, Yang Tian. Journal of Computational Physics, 2024.
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``APL Machine Learning``</span> [KoopmanLab: Machine learning for solving complex physics equations](https://www.researchgate.net/publication/366846352_KoopmanLab_machine_learning_for_solving_complex_physics_equations). **Wei Xiong**, Muyuan Ma, Xiaomeng Huang, Ziyang Zhang, Pei Sun, Yang Tian. APL Machine Learning, 2023.
-- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ArXiv``</span> [Koopman neural operator as a mesh-free solver of non-linear partial differential equations](https://arxiv.org/abs/2301.10022). **Wei Xiong**, Xiaomeng Huang, Ziyang Zhang, Ruixuan Deng, Pei Sun, Yang Tian ArXiv preprint arXiv:2301.10022 (Journal of Computational Physics under review), 2023.
 
 
 #### &nbsp;&nbsp; Geophysical System Modeling
@@ -95,7 +98,8 @@ I also share some content about operator learning theory, numerical algorithms a
 
 # ⚓ Academic Services
 Reviewer:
-- 2024 ACMKDD
+- ICLR 2025
+- KDD 2024
 
 
 # 😊 Miscellaneous
